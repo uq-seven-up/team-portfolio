@@ -32,3 +32,7 @@ Go to the server directory using the command
 Start the server using the command:
 
 `npm start`
+
+Server hosted on port 3000:
+
+localhost:3000
