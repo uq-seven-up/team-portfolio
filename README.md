@@ -1,5 +1,7 @@
 # Team Portfolio
 
+https://uq-seven-up.github.io/team-portfolio/packages/client/public/index.html
+
 ## How to use
 
 **Checkout the project:**
